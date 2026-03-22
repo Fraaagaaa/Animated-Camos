@@ -2,6 +2,8 @@
 
 ## Download
 [Download](https://github.com/Fraaagaaa/Animated-Camos/releases/download/V1/Animated.Camos.rar)
+[Download without misty](https://github.com/Fraaagaaa/Animated-Camos/releases/download/V1/Animated.Camos.Without.Misty.rar)
+
 ## How to install
 
 Unzip the download in `C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\mods`
