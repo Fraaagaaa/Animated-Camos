@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x25D709F9,noise2
+unk_semantic_0xC4E4F86B,sw4
+Lookup,tv_lookup

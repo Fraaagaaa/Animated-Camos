@@ -1,0 +1,4 @@
+semantic,image_name
+specularMap,~~-gp_int_blue_door_s-rgb&~-r~2b18b617
+normalMap,p_int_blue_door_n
+colorMap,~-gp_int_blue_door_c

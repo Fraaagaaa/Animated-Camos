@@ -1,0 +1,2 @@
+semantic,image_name
+colorMap,mtl_p_int_monitor_a_c

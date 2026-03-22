@@ -1,0 +1,4 @@
+semantic,image_name
+specularMap,~$black-r&$white-r&$black-r&~~02764994
+normalMap,mtl_p_int_monitor_n
+colorMap,~-gmtl_p_int_monitor_c
