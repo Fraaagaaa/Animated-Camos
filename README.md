@@ -1,7 +1,7 @@
 # Call of Duty: Black Ops Zombies - Animated Camos
 
 ## Download
-[Download](https://github.com/Fraaagaaa/Animated-Camos/releases/download/V1/Animated.Camos.rar)
+[Download](https://github.com/Fraaagaaa/Animated-Camos/releases/download/V1/Animated.Camos.rar) <br>
 [Download without misty](https://github.com/Fraaagaaa/Animated-Camos/releases/download/V1/Animated.Camos.Without.Misty.rar)
 
 ## How to install
