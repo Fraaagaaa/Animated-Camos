@@ -11,5 +11,6 @@ Unzip the download in `C:\Program Files (x86)\Steam\steamapps\common\Call of Dut
 ## How to change camos
 You have to change the textures inside `animatedcamos.iwd` on the mod folder, you can find the texture names for each weapon on `file names.txt`.
 
-## Custom Maps supported with this mod
+## Custom Maps and Mods supported with this mod
 [Winter Wunderland by Wunderful and 5and5](https://github.com/Fraaagaaa/Animated-Camos/releases/download/V1/Winter.Wunderland.Animated.Camos.rar)
+[Remix by 5and5](https://github.com/Fraaagaaa/Animated-Camos/releases/download/V1/Remix.Animated.Camos.rar)
