@@ -1,8 +1,0 @@
-newmtl mtl_p_int_monitor_c
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd _images\\mtl_p_int_monitor_c\\~-gmtl_p_int_monitor_c.tga
-map_bump _images\\mtl_p_int_monitor_c\\mtl_p_int_monitor_n.tga
-map_Ks _images\\mtl_p_int_monitor_c\\~$black-r&$white-r&$black-r&~~02764994.tga

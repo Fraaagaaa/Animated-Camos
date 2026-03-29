@@ -88,7 +88,7 @@ xmodel,t5_weapon_1911_rh_viewmodel
 xmodel,t5_weapon_1911_lh_viewmodel
 
 
-
+/*
 xmodel,viewmodel_usa_hazmat_arms
 xmodel,viewmodel_usa_pow_arms
 xmodel,viewmodel_usa_ray_gun
@@ -101,7 +101,7 @@ xmodel,viewmodel_zom_pressure_suit_arms
 xmodel,viewmodel_zom_rooker_arms
 xmodel,viewmodel_zom_trejo_arms
 xmodel,viewmodel_rus_prisoner_arms
-
+*/
 // SLIQUIFIRE
 /*
 xanim,viewmodel_vril_ads_down
@@ -121,21 +121,6 @@ xanim,viewmodel_vril_sprint_out
 */
 
 
-/*
-xmodel,c_ger_richtofen_body
-xmodel,c_ger_richtofen_dlc2_body
-xmodel,c_jap_takeo_body
-xmodel,c_jap_takeo_dlc2_body
-xmodel,c_rus_nikolai_body
-xmodel,c_rus_nikolai_dlc2_body
-xmodel,c_rus_nikolai_dlc5_body
-xmodel,c_usa_dempsey_body
-xmodel,c_usa_dempsey_dlc2_body
-xmodel,c_zom_danny_trejo_fb_player
-xmodel,c_zom_michael_rooker_fb_player
-xmodel,c_zom_robert_englund_fb_player
-xmodel,c_zom_sarah_michelle_gellar_fb_player
-*/
 xmodel,p_int_monitor_a
 xmodel,p_int_monitor_a_bink
 xmodel,p_int_monitor_a_extracam
