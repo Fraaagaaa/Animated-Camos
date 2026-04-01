@@ -1,8 +1,5 @@
-/*
 xmodel,viewmodel_usa_hazmat_arms
 xmodel,viewmodel_usa_pow_arms
-xmodel,viewmodel_usa_ray_gun
-xmodel,viewmodel_usa_tesla_gun
 xmodel,viewmodel_vtn_arms_standard
 xmodel,viewmodel_vtn_nva_standard_arms
 xmodel,viewmodel_zom_englund_arms
@@ -11,12 +8,13 @@ xmodel,viewmodel_zom_pressure_suit_arms
 xmodel,viewmodel_zom_rooker_arms
 xmodel,viewmodel_zom_trejo_arms
 xmodel,viewmodel_rus_prisoner_arms
-*/
 
 xmodel,p_zom_moon_earth
+xmodel,viewmodel_usa_tesla_gun
 xmodel,t5_weapon_pm63_dw_rh_viewmodel
 xmodel,t5_weapon_pm63_viewmodel
 xmodel,t5_weapon_pm63_dw_lh_viewmodel
+xmodel,viewmodel_usa_ray_gun
 xmodel,viewmodel_zombie_kar98k_rifle
 xmodel,viewmodel_zombie_kar98k_rifle_up
 xmodel,viewmodel_zombie_g43_rifle
